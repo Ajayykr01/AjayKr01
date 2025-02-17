@@ -44,7 +44,7 @@ I am **Ajay Kumar**, a passionate **Full Stack Developer** with expertise in bot
 ---
 
 ### 📬 Let's Connect & Collaborate!
-📩 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📩 **Email:** [ajayaky2020@gmail.com](ajayaky2020@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/ajay-kumar](#)  
 🌎 **Portfolio:** [ajaykumar.dev](#)  
 🐦 **Twitter:** [twitter.com/ajaykumar](#)  
